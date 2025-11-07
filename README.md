@@ -1,1 +1,0 @@
-# project-exercism-golang
